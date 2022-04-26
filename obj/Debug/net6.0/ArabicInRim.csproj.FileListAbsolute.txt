@@ -1,0 +1,15 @@
+G:\source\repos\ArabicInRim\ArabicInRim\bin\Debug\net6.0\ArabicInRim.exe
+G:\source\repos\ArabicInRim\ArabicInRim\bin\Debug\net6.0\ArabicInRim.deps.json
+G:\source\repos\ArabicInRim\ArabicInRim\bin\Debug\net6.0\ArabicInRim.runtimeconfig.json
+G:\source\repos\ArabicInRim\ArabicInRim\bin\Debug\net6.0\ArabicInRim.dll
+G:\source\repos\ArabicInRim\ArabicInRim\bin\Debug\net6.0\ArabicInRim.pdb
+G:\source\repos\ArabicInRim\ArabicInRim\obj\Debug\net6.0\ArabicInRim.csproj.AssemblyReference.cache
+G:\source\repos\ArabicInRim\ArabicInRim\obj\Debug\net6.0\ArabicInRim.GeneratedMSBuildEditorConfig.editorconfig
+G:\source\repos\ArabicInRim\ArabicInRim\obj\Debug\net6.0\ArabicInRim.AssemblyInfoInputs.cache
+G:\source\repos\ArabicInRim\ArabicInRim\obj\Debug\net6.0\ArabicInRim.AssemblyInfo.cs
+G:\source\repos\ArabicInRim\ArabicInRim\obj\Debug\net6.0\ArabicInRim.csproj.CoreCompileInputs.cache
+G:\source\repos\ArabicInRim\ArabicInRim\obj\Debug\net6.0\ArabicInRim.dll
+G:\source\repos\ArabicInRim\ArabicInRim\obj\Debug\net6.0\refint\ArabicInRim.dll
+G:\source\repos\ArabicInRim\ArabicInRim\obj\Debug\net6.0\ArabicInRim.pdb
+G:\source\repos\ArabicInRim\ArabicInRim\obj\Debug\net6.0\ArabicInRim.genruntimeconfig.cache
+G:\source\repos\ArabicInRim\ArabicInRim\obj\Debug\net6.0\ref\ArabicInRim.dll
